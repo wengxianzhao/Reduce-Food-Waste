@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537906396673",
+    "project_id": "reducefoodwaste-2686d",
+    "storage_bucket": "reducefoodwaste-2686d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537906396673:android:d124ab35920d8722608a00",
+        "android_client_info": {
+          "package_name": "com.mobile.reduce_food_waste.reduce_food_waste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537906396673-ur363kscgpd7tt2vateqhc5horsg2u15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.reduce_food_waste.reduce_food_waste",
+            "certificate_hash": "4f45263e517438342e3a89a101f2028d87f1f136"
+          }
+        },
+        {
+          "client_id": "537906396673-s3tnlfv5pjht384t62k30fm2rmd1n81c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOIsDLe4yi6t3W56R8q-_WObgs6zQ0Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537906396673-s3tnlfv5pjht384t62k30fm2rmd1n81c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
